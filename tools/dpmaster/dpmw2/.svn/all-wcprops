@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk
+END
+servers.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alteriwnet/!svn/ver/57/dpmaster/trunk/servers.h
+END
+stdcheaders.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/stdcheaders.h
+END
+multi.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/multi.h
+END
+dpmaster.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/dpmaster.vcproj
+END
+games.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/games.h
+END
+dpmaster.suo
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/dpmaster.suo
+END
+easy.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/easy.h
+END
+messages.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/messages.c
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/types.h
+END
+curl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/curl.h
+END
+messages.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/alteriwnet/!svn/ver/57/dpmaster/trunk/messages.h
+END
+typecheck-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/typecheck-gcc.h
+END
+dpmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/dpmaster.c
+END
+curllib.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/curllib.lib
+END
+mprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/mprintf.h
+END
+system.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/system.c
+END
+curlrules.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/curlrules.h
+END
+exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/exceptions.h
+END
+curlver.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/curlver.h
+END
+common.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/common.c
+END
+libcurld.dll
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/libcurld.dll
+END
+dpmaster.sln
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/dpmaster.sln
+END
+servers.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/alteriwnet/!svn/ver/57/dpmaster/trunk/servers.c
+END
+system.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/system.h
+END
+curlbuild.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/alteriwnet/!svn/ver/61/dpmaster/trunk/curlbuild.h
+END
+games.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/games.c
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/alteriwnet/!svn/ver/52/dpmaster/trunk/common.h
+END
